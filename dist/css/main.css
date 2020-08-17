@@ -69,9 +69,9 @@
 .menu-branding .portrait {
   width: 250px;
   height: 250px;
-  background: url("../img/48383166_2294518213901506_1768689904977444864_o.jpg");
+  background: url("../img/PortraitVane.jpg");
   border-radius: 50%;
-  border: solid 3px #ff4b2b;
+  border: solid 3px #fff12b;
 }
 .menu .nav-item {
   transform: translate3d(600px, 0, 0);
@@ -81,7 +81,7 @@
   transform: translate3d(0, 0, 0);
 }
 .menu .nav-item.current > a {
-  color: #ff4b2b;
+  color: #fff12b;
 }
 .menu .nav-link {
   display: inline-block;
@@ -95,7 +95,7 @@
   transition: all 1.5s ease-out;
 }
 .menu .nav-link:hover {
-  color: #ff4b2b;
+  color: #fff12b;
 }
 
 .nav-item:nth-child(1) {
@@ -127,8 +127,8 @@ body {
   line-height: 1.5;
 }
 body#bg-img {
-  background: url("../img/volkswagen.jpg");
-  background: rgba(68, 68, 68, 0.9), url('../img/volkswagen.jpg')
+  background: url("../img/221870.jpg");
+  background: rgba(68, 68, 68, 0.9), url("../img/221870.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -174,7 +174,7 @@ header {
 }
 
 .text-secondary {
-  color: #ff4b2b;
+  color: #fff12b;
 }
 
 main {
@@ -188,7 +188,7 @@ main .icons a {
   padding: 0.4rem;
 }
 main .icons a:hover {
-  color: #ff4b2b;
+  color: #fff12b;
   transition: all 1.5s ease-out;
 }
 main#home {
@@ -210,7 +210,7 @@ main#home h1 {
   grid-area: bioimage;
   margin: auto;
   border-radius: 50%;
-  border: #ff4b2b 3px solid;
+  border: #fff12b 3px solid;
 }
 .about-info .bio {
   grid-area: bio;
@@ -228,7 +228,7 @@ main#home h1 {
 .about-info .job {
   background: #404040;
   padding: 0.5rem;
-  border-bottom: #ff4b2b 5px solid;
+  border-bottom: #fff12b 5px solid;
 }
 
 .projects {
@@ -242,7 +242,7 @@ main#home h1 {
 }
 .projects img:hover {
   opacity: 0.5;
-  border-color: #ff4b2b;
+  border-color: #fff12b;
   transition: all 1.5s ease-out;
 }
 
@@ -262,7 +262,7 @@ main#home h1 {
 }
 .boxes div:hover {
   padding: 0.5rem 1.5rem;
-  background: #ff4b2b;
+  background: #fff12b;
   color: #000;
 }
 .boxes div:hover span {
@@ -280,7 +280,7 @@ main#home h1 {
 .btn:hover,
 .btn-dark:hover,
 .btn-light:hover {
-  background: #ff4b2b;
+  background: #fff12b;
   color: #000;
 }
 
@@ -343,7 +343,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../img/small_jp.jpg");
+    background: url("../img/Hatdog_small.jpg");
     width: 150px;
     height: 150px;
   }
